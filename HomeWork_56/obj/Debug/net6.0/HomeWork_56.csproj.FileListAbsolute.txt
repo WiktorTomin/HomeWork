@@ -1,0 +1,15 @@
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\bin\Debug\net6.0\HomeWork_56.exe
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\bin\Debug\net6.0\HomeWork_56.deps.json
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\bin\Debug\net6.0\HomeWork_56.runtimeconfig.json
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\bin\Debug\net6.0\HomeWork_56.dll
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\bin\Debug\net6.0\HomeWork_56.pdb
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\obj\Debug\net6.0\HomeWork_56.csproj.AssemblyReference.cache
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\obj\Debug\net6.0\HomeWork_56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\obj\Debug\net6.0\HomeWork_56.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\obj\Debug\net6.0\HomeWork_56.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\obj\Debug\net6.0\HomeWork_56.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\obj\Debug\net6.0\HomeWork_56.dll
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\obj\Debug\net6.0\refint\HomeWork_56.dll
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\obj\Debug\net6.0\HomeWork_56.pdb
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\obj\Debug\net6.0\HomeWork_56.genruntimeconfig.cache
+C:\Users\Виктор\Desktop\Seminar C#\HomeWork_56\obj\Debug\net6.0\ref\HomeWork_56.dll
